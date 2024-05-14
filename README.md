@@ -17,7 +17,7 @@ This website serves as an online platform for purchasing high-quality computer p
 
 ## Getting Started
 
-To start browsing our catalog and purchasing computer parts, simply visit our website at [www.bitsandpieces.com](https://syn4z.github.io/PWeb-Labs/).
+To start browsing our catalog and purchasing computer parts, simply visit our website at [www.bitsandpieces.com](https://syn4z.github.io/Bits-and-Pieces/).
 
 If you have any inquiries or require support, feel free to contact our support team through the provided contact information on our website.
 
